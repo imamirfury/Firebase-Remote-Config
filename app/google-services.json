@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275151831348",
+    "project_id": "fir-remote-config-aed02",
+    "storage_bucket": "fir-remote-config-aed02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275151831348:android:b166c8f237f57e8331a561",
+        "android_client_info": {
+          "package_name": "com.fury.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275151831348-p662u9tmn6hanc3512qsijnmqeedjajg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fury.firebaseremoteconfig",
+            "certificate_hash": "e5d921b252563f1917820755753e836cc24b8530"
+          }
+        },
+        {
+          "client_id": "275151831348-o581je7bee5n4vnrhhu2gbb0k01crhro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePkHFIW93V1ZqWbS3Byy6UUv2nHo5UfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275151831348-o581je7bee5n4vnrhhu2gbb0k01crhro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
